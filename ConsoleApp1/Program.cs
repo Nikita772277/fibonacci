@@ -11,7 +11,7 @@ bool b = int.TryParse(a, out int c);
 int ferst = 0;
 int gerst = 1;
 int count = 0;
-int result = 0;
+int result ;
         if(a==" " || a == "")
         {
             Console.WriteLine();
